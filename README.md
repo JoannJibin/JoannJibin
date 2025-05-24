@@ -2,7 +2,7 @@
 <h3 align="center"> Final year B.Tech Student | AI & Data Science </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+Year+AI+%26+DS+Student;Loves+building+with+Python+%26+Django;ML%2C+Data+Science+%2C+and+Web+Dev!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+Year+AI+%26+DS+Student;Loves+building+with+Python;ML%2C+Data+Science+%2C+and+Web+Dev!&center=true&width=500&height=45">
 </p>
 
 ---
