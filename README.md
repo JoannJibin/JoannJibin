@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Joann Jibin</h1>
-<h3 align="center">🐛 Final year B.Tech Student | AI & Data Science | Passionate Pythonista</h3>
+<h3 align="center"> Final year B.Tech Student | AI & Data Science </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+Year+AI+%26+DS+Student;Loves+building+with+Python+%26+Django;ML%2C+Data+Science+%2C+and+Web+Dev!&center=true&width=500&height=45">
@@ -9,8 +9,7 @@
 
 ## 🧑‍🎓 About Me
 
-🎓 I'm a **Final Year B.Tech student** at  
-🎓 **Muthoot Institute of Technology and Science**, Kerala  
+🎓 I'm a **Final Year B.Tech student** at **Muthoot Institute of Technology and Science**, Kerala  
 📈 Passionate about extracting **actionable insights** from data  
 🔍 Focused on building **AI-driven solutions** for real-world challenges
 
