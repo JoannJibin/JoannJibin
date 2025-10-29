@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header&text=Hey%20there!%20I'm%20Joann%20Jibin%20👋&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A6B8&height=150&section=header&text=Hey%20there!%20I'm%20Joann%20Jibin%20👋&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">🎓 Final-year B.Tech Student in Artificial Intelligence & Data Science</h3>
@@ -60,6 +60,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FFD700&height=120&section=footer&text=⭐️%20Code.%20Create.%20Visualize.%20Repeat.%20⭐️&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer&text=⭐️%20Code.%20Create.%20Visualize.%20Repeat.%20⭐️&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=80" />
 </p>
+
 
