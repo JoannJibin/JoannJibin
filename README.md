@@ -1,23 +1,75 @@
-# 💫 About Me:
-Final-year B.Tech student in Artificial Intelligence and Data Science, driven by a passion for building intelligent systems and uncovering actionable insights through data analytics and visualization.
+<h1 align="center">👋 Hey there, I'm <span style="color:#8A2BE2;">Joann Jibin</span></h1>
+<h3 align="center">🎓 Final-year B.Tech Student in Artificial Intelligence & Data Science</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joann-jibin) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoannJibin&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JoannJibin&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoannJibin&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JoannJibin&theme=kacho_ga&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  💡 Passionate about building <strong>intelligent systems</strong> and transforming data into actionable insights through <strong>analytics</strong> and <strong>visualization</strong>.<br>
+  🚀 Always learning, creating, and experimenting with technology to make ideas come alive.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JoannJibin&icon=6&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🪄 LED Board Vibes
+<p align="center">
+  <marquee width="80%" direction="left" scrollamount="10">
+    💫 Turning Data into Insights • 🧠 Building Smart Solutions • 🎨 Visualizing Intelligence • 🚀 AI | Data Science | Dashboards 💫
+  </marquee>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/joann-jibin" target="_blank">
+    <img src="https://img.shields.io/badge/-Joann%20Jibin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joannjibin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,pandas,html,css,figma,mysql,github,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoannJibin&show_icons=true&theme=tokyonight&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoannJibin&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannJibin&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoannJibin&theme=tokyonight&no-frame=true&row=1&margin-w=10">
+</p>
+
+---
+
+### ✨ Fun Zone  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Transforming+Data+into+Intelligence;Building+Smart+and+Creative+Solutions;Code+•+Create+•+Visualize+•+Repeat!">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=JoannJibin&label=Profile%20Views&color=11&icon=6&pretty=true" />
+</p>
+
+---
+
+⭐️ *“Code. Create. Visualize. Repeat.”*
