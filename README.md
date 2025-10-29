@@ -1,6 +1,5 @@
 # 💫 About Me:
-A final year B.Tech student in Artificial Intelligence and Data Science currently exploring computer vision, block chain and data visualization via dashboards.
-
+Final-year B.Tech student in Artificial Intelligence and Data Science, driven by a passion for building intelligent systems and uncovering actionable insights through data analytics and visualization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joann-jibin) 
