@@ -10,72 +10,56 @@
   🚀 Always learning, creating, and experimenting with technology to make ideas come alive.
 </p>
 
----
-
-<!-- ✨ LED / Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1500&color=FFD700&center=true&vCenter=true&width=750&lines=💫+Turning+Data+into+Insights;🧠+Building+Smart+Solutions;🎨+Visualizing+Intelligence;🚀+AI+%7C+Data+Science+%7C+Dashboards+💫" alt="LED Animation">
-</p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/joann-jibin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:joannjibinpanji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,html,css,figma,mysql,git,github,vscode&perline=6" />
+  🐍 Python &nbsp;|&nbsp; 🤖 Scikit-learn &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 🧮 Pandas <br>
+  🌐 HTML &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🧠 Figma &nbsp;|&nbsp; 🗄️ MySQL <br>
+  🧰 Git &nbsp;|&nbsp; 💻 GitHub &nbsp;|&nbsp; 🧾 VS Code
 </p>
+
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoannJibin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoannJibin&theme=tokyonight&hide_border=true" height="165">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JoannJibin&show_icons=true&theme=default&count_private=true&hide_border=false&bg_color=ffffff&title_color=6A0DAD&text_color=000000&icon_color=4169E1" 
+    height="165">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JoannJibin&theme=default&hide_border=false&background=ffffff&ring=6A0DAD&fire=FFD700&currStreakLabel=4169E1&sideNums=000000&sideLabels=000000" 
+    height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannJibin&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannJibin&layout=compact&hide_border=false&bg_color=ffffff&title_color=6A0DAD&text_color=000000" 
+    height="165">
 </p>
+
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoannJibin&theme=tokyonight&no-frame=true&row=1&margin-w=10">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=JoannJibin&theme=flat&no-frame=false&row=1&margin-w=10&title=6A0DAD&text=000000&bg=ffffff">
 </p>
 
 ---
-
-### ✨ Fun Zone
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Transforming+Data+into+Intelligence;Building+Smart+%26+Creative+Solutions;Code+•+Create+•+Visualize+•+Repeat!" alt="typing animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FFD700&height=120&section=footer&text=⭐️%20Code.%20Create.%20Visualize.%20Repeat.%20⭐️&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JoannJibin&label=Profile%20Views&color=8A2BE2&icon=6&pretty=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" />
-</p>
-
-<h3 align="center">⭐️ “Code. Create. Visualize. Repeat.” ⭐️</h3>
