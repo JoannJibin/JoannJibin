@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=header&text=Hey%20there!%20I'm%20Joann%20Jibin%20👋&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5A00A3&height=150&section=header&text=Hey%20there!%20I'm%20Joann%20Jibin%20👋&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">🎓 Final-year B.Tech Student in Artificial Intelligence & Data Science</h3>
